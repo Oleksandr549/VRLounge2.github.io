@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="VRLounge" src="https://github.com/user-attachments/assets/ff8322df-7671-4537-9178-649628a43ce3" />[VRLounge_README.md](https://github.com/user-attachments/files/27559541/VRLounge_README.md)
+/>[VRLounge_README.md](https://github.com/user-attachments/files/27559541/VRLounge_README.md)
 # VR Lounge 🥽
 
 A fully custom front-end website designed and developed from scratch for a small VR entertainment business. The design was created independently — no template used — tailored to the brand's futuristic identity.
