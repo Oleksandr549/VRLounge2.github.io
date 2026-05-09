@@ -1,4 +1,4 @@
-/>[VRLounge_README.md](https://github.com/user-attachments/files/27559541/VRLounge_README.md)
+[VRLounge_README.md](https://github.com/user-attachments/files/27559541/VRLounge_README.md)
 # VR Lounge 🥽
 
 A fully custom front-end website designed and developed from scratch for a small VR entertainment business. The design was created independently — no template used — tailored to the brand's futuristic identity.
